@@ -26,6 +26,8 @@ A thread pool is employed to manage the creation and synchronization of threads 
 
 Benchmark tests were conducted to compare the execution times of the standard Merge Sort and the Parallel Merge Sort implementations. On a Ubuntu 22.04 LTS, the standard Merge Sort executed in approximately 850 milliseconds, while the Parallel Merge Sort completed the same task in about 130 milliseconds, demonstrating a significant performance improvement. It can vary machine to machine.
 
+![ParallelMergeSortDiagram](plots/result.png)
+
 ## Getting Started
 
 ### Prerequisites
